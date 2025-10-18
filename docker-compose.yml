@@ -1,0 +1,39 @@
+version: "3.9"
+
+services:
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: "1234"
+      MSSQL_PID: "Developer"
+      MSSQL_TCP_PORT: "1433"
+    ports:
+      - "1433:1433"
+    volumes:
+      - mssql-data:/var/opt/mssql
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools18/bin/sqlcmd -C -S localhost -U SA -P 'Sa1234!q' -Q 'SELECT 1' || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  web:
+    build:
+      context: .
+      dockerfile: aspnet-contact-form/Dockerfile
+    container_name: aspnet-contact-form
+    depends_on:
+      mssql:
+        condition: service_healthy
+    env_file:
+      - ./aspnet-contact-form/aspnet-contact-form/.env   
+    environment:
+      ASPNETCORE_URLS: "http://0.0.0.0:8080"             
+    ports:
+      - "8080:8080"
+    restart: always
+
+volumes:
+  mssql-data:

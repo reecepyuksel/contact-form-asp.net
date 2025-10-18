@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\migrations\\20251017205600_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\migrations\\20251017205600_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\controllers\\contactapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,24 +31,52 @@
       "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\migrations\\20251017205600_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\migrations\\20251017205600_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\requests\\createcontactmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\requests\\createcontactmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
@@ -59,28 +87,8 @@
       "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\models\\requests\\createcontactmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\models\\requests\\createcontactmessagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|solutionrelative:aspnet-contact-form\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ADED3E13-6999-4089-9BF4-5FB72EA5C5F4}|aspnet-contact-form\\aspnet-contact-form.csproj|c:\\users\\egeme\\desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -98,50 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DepartmentApiController.cs",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
-              "RelativeToolTip": "aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T17:31:45.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ContactMessage.cs",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\ContactMessage.cs",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Models\\ContactMessage.cs",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\ContactMessage.cs",
-              "RelativeToolTip": "aspnet-contact-form\\Models\\ContactMessage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:44:42.586Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T21:31:33.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 8,
               "Title": "20251017205600_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Migrations\\20251017205600_InitialCreate.cs",
               "RelativeDocumentMoniker": "aspnet-contact-form\\Migrations\\20251017205600_InitialCreate.cs",
@@ -149,8 +118,19 @@
               "RelativeToolTip": "aspnet-contact-form\\Migrations\\20251017205600_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T20:56:01.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T20:56:01.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:08:59.774Z"
             },
             {
               "$type": "Document",
@@ -162,8 +142,19 @@
               "RelativeToolTip": "aspnet-contact-form\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:35:20.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T16:35:20.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentApiController.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:31:45.511Z"
             },
             {
               "$type": "Document",
@@ -175,8 +166,7 @@
               "RelativeToolTip": "aspnet-contact-form\\Controllers\\ContactController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T17:16:48.974Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T17:16:48.974Z"
             },
             {
               "$type": "Document",
@@ -186,40 +176,62 @@
               "RelativeDocumentMoniker": "aspnet-contact-form\\Controllers\\ContactApiController.cs",
               "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\ContactApiController.cs",
               "RelativeToolTip": "aspnet-contact-form\\Controllers\\ContactApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T17:31:27.469Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T17:31:27.469Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "aspnet-contact-form\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T12:06:49.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "aspnet-contact-form\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T12:07:07.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Program.cs",
               "RelativeDocumentMoniker": "aspnet-contact-form\\Program.cs",
               "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Program.cs",
               "RelativeToolTip": "aspnet-contact-form\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAQwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T16:48:07.821Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Department.cs",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\Department.cs",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Models\\Department.cs",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\Department.cs",
-              "RelativeToolTip": "aspnet-contact-form\\Models\\Department.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T16:52:26.782Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T21:31:33.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "aspnet-contact-form\\Models\\ErrorViewModel.cs",
@@ -227,73 +239,43 @@
               "RelativeToolTip": "aspnet-contact-form\\Models\\ErrorViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T21:51:45.548Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T21:51:45.548Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\Department.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:52:26.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Models\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Models\\ContactMessage.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Models\\ContactMessage.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T16:44:42.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.env",
               "RelativeDocumentMoniker": "aspnet-contact-form\\.env",
               "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.env",
               "RelativeToolTip": "aspnet-contact-form\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-17T21:29:48.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.Development.json",
-              "RelativeToolTip": "aspnet-contact-form\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T16:41:43.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.json",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\appsettings.json",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.json",
-              "RelativeToolTip": "aspnet-contact-form\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T16:31:27.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.gitignore",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\.gitignore",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.gitignore",
-              "RelativeToolTip": "aspnet-contact-form\\.gitignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-17T21:34:53.009Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "aspnet-contact-form\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-17T17:08:59.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-17T21:29:48.069Z"
             },
             {
               "$type": "Document",
@@ -309,7 +291,79 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "aspnet-contact-form\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:35:38.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:37:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-17T16:37:09.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.Development.json",
+              "RelativeToolTip": "aspnet-contact-form\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T16:41:43.917Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.json",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\appsettings.json",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\appsettings.json",
+              "RelativeToolTip": "aspnet-contact-form\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-17T16:31:27.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.gitignore",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\.gitignore",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\.gitignore",
+              "RelativeToolTip": "aspnet-contact-form\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-17T21:34:53.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Shared\\_Layout.cshtml.css",
@@ -321,7 +375,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "Error.cshtml",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\Error.cshtml",
               "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Shared\\Error.cshtml",
@@ -333,43 +387,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "aspnet-contact-form\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T16:37:10.715Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "aspnet-contact-form\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAB8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T16:37:09.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "aspnet-contact-form\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-17T16:35:38.168Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "aspnet-contact-form\\Views\\Home\\Privacy.cshtml",
