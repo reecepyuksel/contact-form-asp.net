@@ -3,12 +3,12 @@ version: "3.9"
 services:
   mssql:
     image: mcr.microsoft.com/mssql/server:2022-latest
-    platform: linux/amd64                # Apple Silicon (M1/M2) kullanıyorsan bırak; Intel isen silebilirsin
     container_name: mssql
     environment:
       ACCEPT_EULA: "Y"
-      SA_PASSWORD: "Sa1234!q"            # güçlü parola
+      SA_PASSWORD: "1234"
       MSSQL_PID: "Developer"
+      MSSQL_TCP_PORT: "1433"
     ports:
       - "1433:1433"
     volumes:
@@ -27,8 +27,10 @@ services:
     depends_on:
       mssql:
         condition: service_healthy
-    volumes:
-      - ./aspnet-contact-form/aspnet-contact-form/.env:/app/.env:ro   # .env’yi uygulama içine mount ediyoruz
+    env_file:
+      - ./aspnet-contact-form/aspnet-contact-form/.env   
+    environment:
+      ASPNETCORE_URLS: "http://0.0.0.0:8080"             
     ports:
       - "8080:8080"
     restart: always
