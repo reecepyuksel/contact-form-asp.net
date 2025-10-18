@@ -28,9 +28,9 @@ services:
       mssql:
         condition: service_healthy
     env_file:
-      - ./aspnet-contact-form/aspnet-contact-form/.env   
+      - ./aspnet-contact-form/aspnet-contact-form/.env
     environment:
-      ASPNETCORE_URLS: "http://0.0.0.0:8080"             
+      ASPNETCORE_URLS: "http://0.0.0.0:8080"
     ports:
       - "8080:8080"
     restart: always

@@ -134,6 +134,19 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:08:59.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\HomeController.cs",
@@ -155,6 +168,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T17:31:45.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentApiController.cs",
+              "DocumentMoniker": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "RelativeDocumentMoniker": "aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "ToolTip": "C:\\Users\\egeme\\Desktop\\aspnet-contact-form\\aspnet-contact-form\\aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "RelativeToolTip": "aspnet-contact-form\\Controllers\\DepartmentApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T17:31:45.511Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -190,7 +216,12 @@
               "RelativeToolTip": "aspnet-contact-form\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-18T12:06:49.435Z"
+=======
+              "WhenOpened": "2025-10-18T12:06:49.435Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
@@ -202,7 +233,12 @@
               "RelativeToolTip": "aspnet-contact-form\\wwwroot\\css\\style.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-18T12:07:07.055Z"
+=======
+              "WhenOpened": "2025-10-18T12:07:07.055Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
@@ -227,7 +263,12 @@
               "RelativeToolTip": "aspnet-contact-form\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-17T21:31:33.668Z"
+=======
+              "WhenOpened": "2025-10-17T21:31:33.668Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
@@ -251,7 +292,12 @@
               "RelativeToolTip": "aspnet-contact-form\\Models\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-17T16:52:26.782Z"
+=======
+              "WhenOpened": "2025-10-17T16:52:26.782Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
@@ -263,7 +309,12 @@
               "RelativeToolTip": "aspnet-contact-form\\Models\\ContactMessage.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAYwBsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-17T16:44:42.586Z"
+=======
+              "WhenOpened": "2025-10-17T16:44:42.586Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
@@ -275,7 +326,12 @@
               "RelativeToolTip": "aspnet-contact-form\\.env",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-17T21:29:48.069Z"
+=======
+              "WhenOpened": "2025-10-17T21:29:48.069Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
@@ -299,7 +355,12 @@
               "RelativeToolTip": "aspnet-contact-form\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+<<<<<<< HEAD
               "WhenOpened": "2025-10-17T16:35:38.168Z"
+=======
+              "WhenOpened": "2025-10-17T16:35:38.168Z",
+              "EditorCaption": ""
+>>>>>>> origin/master
             },
             {
               "$type": "Document",
