@@ -70,7 +70,7 @@ Proje dizininde `.env` adında bir dosya oluşturun ve aşağıdaki bilgileri ek
 DB_SERVER=mssql,1433
 DB_NAME=aspnet_contact_form
 DB_USER=SA
-DB_PASS=1234
+DB_PASS=Sa1234!q
 ```
 
 > Parolayı güvenli bir şekilde değiştirmeniz önerilir.
